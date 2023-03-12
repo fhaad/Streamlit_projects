@@ -1,0 +1,6 @@
+nombres,apellidos,fecha_nacimiento,email,amount,hours,daily,weekly
+Juan ,valdez,1990-03-07,juanito@yahoo.com,15.0,60,120.0,900.0
+Juan,Valdez,1992-07-12,carlosbe@hotmail.com,22.0,50,176.0,1100.0
+Rocio,Reyes,1992-08-10,rocio@yahoo.com,17.0,60,136.0,1020.0
+Carmen,Piedrahita,1995-09-18,Carmen@hotmail.com,20.0,55,160.0,1100.0
+Jose,Albornoz,1991-04-22,josealb@gmail.com,12.5,60,100.0,750.0
